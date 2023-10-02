@@ -1,0 +1,9 @@
+.menu__link{
+  color: black;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+.menu__link:hover{
+  text-decoration: underline;
+}

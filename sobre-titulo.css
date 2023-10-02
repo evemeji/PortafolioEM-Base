@@ -1,0 +1,16 @@
+
+@media (min-width:0) {
+  .sobre__titulo{
+    font-size: 1px;
+    
+  }
+  
+}
+
+@media (min-width: 768px) {
+  
+}
+  .sobre__titulo{
+    font-size: 10px;
+ 
+}

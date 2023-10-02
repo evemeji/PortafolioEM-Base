@@ -1,0 +1,12 @@
+@media (min-width:0){
+.formaciones__img{
+  width: 80px;
+  height: 5rem;
+  padding-left: .5rem;
+  }
+}
+@media (min-width:768px) {.formaciones__img{
+  width: 200px;
+  height: 10rem;
+  }
+}

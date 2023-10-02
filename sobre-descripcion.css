@@ -1,0 +1,17 @@
+
+
+@media (min-width:0) {
+    .descripcion{
+      width: 300px;
+    }
+ }
+  
+
+@media (min-width:768px) {
+  .descripcion{
+    width: 75%;
+    height: 150px;
+    font-size: 1rem;
+ 
+  }
+}

@@ -1,0 +1,40 @@
+
+.cabecera__logo-nombre{
+  display: flex;
+}
+
+.logo{
+  width: 15%;
+}
+
+
+
+@media (min-width:0){
+  .cabecera{
+    flex-direction: row;
+  }
+  
+  .nombre__cabecera{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 1rem;  
+    }
+}
+
+@media (min-width: 768px){
+  .cabecera{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  
+  .nombre__cabecera{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 2rem;
+
+}
+}

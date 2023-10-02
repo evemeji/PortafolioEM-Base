@@ -1,0 +1,27 @@
+
+@media (min-width:0) {
+  .sobre{
+    font-size: 8px;
+    background-size: 80px;
+    background: #EAF2FD;
+    height: 120px;
+    padding: 1.5rem;
+    
+  }
+  
+}
+
+@media (min-width:768px) {
+  .sobre{
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin: 2px;
+    background: #cedff7b0;
+    background-size: 100%;
+    height: 100%;
+    width: 95%;
+    font-weight: italic;
+    font-size: 1.25rem;
+  }
+}
+   

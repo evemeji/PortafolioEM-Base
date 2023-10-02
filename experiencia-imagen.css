@@ -1,0 +1,20 @@
+.experiencia__img{
+  
+
+}
+
+@media (min-width:0){
+  .experiencia__img{
+    width: 95%;
+    height: 18rem;
+    
+  }
+  
+}
+
+@media (min-width:768px){
+  .experiencia__img{
+    width: 500px;
+    height: 25rem;
+  }
+}

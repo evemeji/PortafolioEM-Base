@@ -1,0 +1,13 @@
+@media (min-width:0){
+  .hobbie__img{
+    width: 100px;
+    height: 5rem;
+  }
+
+}
+@media (min-width:768px){
+  .hobbie__img{
+    width: 150px;
+    height: 5rem;
+  }
+}

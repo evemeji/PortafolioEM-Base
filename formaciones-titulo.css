@@ -1,0 +1,18 @@
+.formacion__titulo{
+  font-style: inherit;
+  font-weight: bold;
+ 
+}
+
+@media (min-width:0){
+  .formacion__titulo{
+    font-size: .5rem;
+    text-align: center;
+  }
+}
+
+@media (min-width: 768px){
+  .formacion__titulo{
+    font-size: 1.4rem
+  }
+}

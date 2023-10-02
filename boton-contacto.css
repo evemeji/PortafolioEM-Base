@@ -1,0 +1,18 @@
+.boton__contacto{
+  background: #2A7AE4;
+  height: 70px;
+  width: 200px;
+  padding: 1rem;
+  margin-top: 1rem;
+  box-sizing: border-box;
+  border: 2px solid #2A7AE4;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.boton__contacto:hover{
+  cursor: pointer;
+  background: #2A7AE7;
+}

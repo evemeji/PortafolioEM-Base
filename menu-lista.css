@@ -1,0 +1,25 @@
+
+@media (min-width:0) {
+  .menu__lista{
+    flex-direction: column;
+    font-size: 1px;
+    display: none;
+    
+  }
+  
+}
+
+@media (min-width:768px){
+  .menu__lista{
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+
+
+
+
+
+

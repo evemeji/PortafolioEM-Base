@@ -1,0 +1,15 @@
+
+
+@media (min-width:0) {
+  .skill__img{
+    width: 100px;
+    height: 5rem;
+  }
+}
+
+@media (min-width: 768px){
+  .skill__img{
+    width: 200px;
+    height: 10rem;
+}
+}

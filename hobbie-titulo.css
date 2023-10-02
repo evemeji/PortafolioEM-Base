@@ -1,0 +1,18 @@
+@media (min-width){
+  .hobbie__titulo{
+    font-size: 0.5rem;
+    text-align: center;
+    font-style: inherit;
+    font-weight: bold;
+  }
+   
+}
+
+@media (min-width: 768px){
+  .hobbie__titulo{
+    font-size: 1.4rem;
+    text-align: center;
+    font-style: inherit;
+    font-weight: bold;
+  }
+}

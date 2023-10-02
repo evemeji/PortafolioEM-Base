@@ -1,0 +1,36 @@
+
+.redes__item{
+  list-style: none;
+  padding: 10px;
+}
+
+.redes__link{
+  color: black;
+  margin-right: .5rem;
+  text-decoration: none;
+  
+}
+
+@media (min-width:0){
+ 
+  .banner__redes{
+    font-size: 1px;
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+
+@media (min-width:768px){
+  .banner__lista{
+    font-size: 12px;
+   
+  }
+  .banner__redes{
+    display: flex;
+    font-size: 12px;
+    justify-items: center;
+    flex-direction: row;
+  }
+
+}

@@ -1,0 +1,43 @@
+
+@media (min-width:0){
+  .banner__info{
+    width: 280px;
+    padding: 0;
+  }
+  
+  .banner__info-presentacion{
+      font-size: 0.2rem;
+      margin-left: 0;
+      font-weight: italic;
+  }
+  
+  .banner__info-formacion{
+    font-size: 0.4rem;
+    width: 220px;
+    
+  }
+  
+}
+
+@media (min-width:768px){
+  .banner__info{
+    width: 580px;
+    height: 100px;
+    padding-left: 1.50rem;
+    padding-right: 1.50rem;
+    margin: 2px;
+  }
+  
+  .banner__info-presentacion{
+    text-align: left;
+    font-size: 2rem;
+    font-weight: bold;
+    
+  }
+  .banner__info-formacion{
+    text-align: left;
+    font-size: 1rem;
+    width: 90%;
+  }
+  
+}
